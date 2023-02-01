@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Beniamin Kwak</h1>
 <h3 align="center">.Net Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://mega.nz/file/nMQRDRzL#l8a3KJoF7_7OPsruNxDW9dO9l5JEjoB_w6JOFnF9T1k" >
+<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/fEcINojv0IEKn2jKRW/giphy.gif?cid=790b7611e975cf32014bd158968542de64170e172aad25dd&rid=giphy.gif&ct=g" >
 
 
 - 🔭 I’m currently working on [Wedding Organizer](https://github.com/gentleben95/WeddingOrg)
