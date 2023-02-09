@@ -5,7 +5,6 @@
 
 - 🔭 I’m currently working on [Wedding Organizer](https://github.com/gentleben95/WeddingOrg) - https://weddinggroup2.azurewebsites.net/
 
-- 🌱 I’m currently learning **C#**
 
 - 📫 How to reach me **http://beniaminkwak.pl/**
 
