@@ -6,7 +6,8 @@
 - 🔭 My application: [Wedding Organizer](https://github.com/gentleben95/WeddingOrg)
 
 
-- 📫 How to reach me **http://beniaminkwak.pl/**
+- 📫 How to reach me:
+beniaminkwak@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
